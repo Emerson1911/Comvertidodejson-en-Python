@@ -1,0 +1,4 @@
+python convertir_excel_a_json.py
+
+alternativa
+python3 convertir_excel_a_json.py
